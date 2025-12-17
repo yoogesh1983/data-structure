@@ -1,10 +1,10 @@
-package com.yoogesh.data.structure;
+package com.yoogesh.data.structure.backtracking.av;
 
 import java.util.ArrayList;
 import java.util.List;
 
 // 11 N Digit numbers with digits in increasing order
-public class Main {
+public class Example_4 {
 
     public static void main(String[] args) {
         ArrayList<Integer> result = new ArrayList<>();
