@@ -1,19 +1,9 @@
-package com.yoogesh.data.structure.tree;
+package com.yoogesh.data.structure.tree.binaryTree;
+
+import com.yoogesh.data.structure.tree.Node;
 
 import java.util.LinkedList;
 import java.util.Queue;
-
-class Node {
-    int data;
-    Node left;
-    Node right;
-
-    public Node(int data) {
-        this.data = data;
-        this.left = null;
-        this.right = null;
-    }
-}
 
 class BinaryTree {
 
